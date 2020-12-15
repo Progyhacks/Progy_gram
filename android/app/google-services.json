@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "318645594886",
+    "project_id": "progy-app-f98c9",
+    "storage_bucket": "progy-app-f98c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:318645594886:android:bdef3e6ab01abd48100c87",
+        "android_client_info": {
+          "package_name": "com.muhammadali.buddiesgram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "318645594886-gcld6sr4is2u29c4k3jkg04q8mloud98.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.muhammadali.buddiesgram",
+            "certificate_hash": "7a7776c49f73629faf1815f4dcb962c0f7826792"
+          }
+        },
+        {
+          "client_id": "318645594886-95muktmivacj2lji6p7pcvlnoqgkd7t7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAliEf6nUQOFMiQHBL7mdpaKu1g6snijWY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "318645594886-95muktmivacj2lji6p7pcvlnoqgkd7t7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
